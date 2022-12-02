@@ -1,3 +1,9 @@
 [submodule "repo/skin.osmc"]
 	path = repo/skin.osmc
 	url = https://github.com/osmc/skin.osmc.git
+[submodule "plugin.video.themoviedb.helper"]
+	path = plugin.video.themoviedb.helper
+	url = https://github.com/jurialmunkey/plugin.video.themoviedb.helper.git
+[submodule "repository.marcelveldt"]
+	path = repository.marcelveldt
+	url = https://github.com/kodi-community-addons/repository.marcelveldt.git
