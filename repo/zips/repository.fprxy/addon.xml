@@ -2,9 +2,9 @@
 <addon id="repository.fprxy" name="fprxy repository" version="1.0" provider-name="fprxy">
     <extension point="xbmc.addon.repository" name="fprxy repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/fprxy/repository.fprxy/master/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/fprxy/repository.fprxy/master/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/fprxy/repository.fprxy/master/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/fprxy/fprxy.github.io/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/fprxy/fprxy.github.io/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/fprxy/fprxy.github.io/master/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
