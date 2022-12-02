@@ -1,0 +1,3 @@
+[submodule "repo/skin.osmc"]
+	path = repo/skin.osmc
+	url = https://github.com/osmc/skin.osmc.git
